@@ -1,0 +1,7 @@
+Iteration_numbers:1000
+User_numbers:5, Subtask_numbers:10, Dependency_degree:5
+Server_numbers:5
+Data_size:900 - 1000, Comp_to_Comm_Cycle:200
+avg_ccr = 0.210485,avg_comm_cost = 2.020396, avg_comp_cost = 9.564368, avg_cost= 11.584764
+avg_mcts_makespan = 3.846506, avg_mcts_satisfaction = 0.732268
+
