@@ -1,7 +1,11 @@
 # PQTD_MCTS
 ## Background
-The open source code of the paper 'Prioritized Assignment with Task Dependency in Collaborative Mobile Edge Computing'.
+- Implementation of task dependency assignment.
+- Prioritized task assignment approach based on MCTS algorithm.
 ## Structure and important parameters
+- **test.cpp**: Contains the main function for testing.
+- **daggen_commons.cpp**: Sets up task information and server information.
+- **mcts.cpp**: Implements the PQTD+MCTS algorithm.
 
 ## Usage
 - For Windows, you need to have Visual Studio 2019 installed.
@@ -9,7 +13,7 @@ The open source code of the paper 'Prioritized Assignment with Task Dependency i
 ### Using in VS2019
 1. Open Visual Studio 2019.
 
-2. Clone the repository and open the solution file 'test' in in VS2019.
+2. Clone the repository and open the solution file 'test' in VS2019.
 
 3. In the Solution Explorer, right-click on the project and select "Build".
 
